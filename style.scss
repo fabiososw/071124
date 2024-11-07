@@ -1,1 +1,8 @@
-@import "./bootstrap/partial-overrides/bootstrap-overrides"
+@import "./bootstrap/partial-overrides/bootstrap-overrides";
+
+.card {
+    background-color: $dark;
+    color: $info;
+    border-radius: 2rem;
+  }
+ 
